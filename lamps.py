@@ -1,13 +1,10 @@
 days = 0
 lowenergy = 60
 lamp = 5
-
 lowenergy_effect = 11
 lamp_effect = 60
-
 lowenergy_hours = 0
 lamp_hours = 0
-
 hours = 0
 electricity_price = 0
 
